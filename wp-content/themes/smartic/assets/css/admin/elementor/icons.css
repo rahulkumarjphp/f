@@ -1,0 +1,1460 @@
+
+@font-face {
+  font-family: "smartic-icon";
+  src: url("../../../fonts/icons/smartic-icon-2.0.4.eot");
+  src: url("../../../fonts/icons/smartic-icon-2.0.4.eot?#iefix") format("eot"), url("../../../fonts/icons/smartic-icon-2.0.4.woff2") format("woff2"), url("../../../fonts/icons/smartic-icon-2.0.4.woff") format("woff"), url("../../../fonts/icons/smartic-icon-2.0.4.ttf") format("truetype"), url("../../../fonts/icons/smartic-icon-2.0.4.svg#smartic-icon-2.0.4") format("svg"); }
+
+[class*="smartic-icon-"] {
+  font-family: "smartic-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle; }
+
+.smartic-icon-adobe:before {
+  content: ""; }
+
+.smartic-icon-amazon:before {
+  content: ""; }
+
+.smartic-icon-android:before {
+  content: ""; }
+
+.smartic-icon-angular:before {
+  content: ""; }
+
+.smartic-icon-apper:before {
+  content: ""; }
+
+.smartic-icon-apple:before {
+  content: ""; }
+
+.smartic-icon-atlassian:before {
+  content: ""; }
+
+.smartic-icon-behance:before {
+  content: ""; }
+
+.smartic-icon-bitbucket:before {
+  content: ""; }
+
+.smartic-icon-bitcoin:before {
+  content: ""; }
+
+.smartic-icon-bity:before {
+  content: ""; }
+
+.smartic-icon-bluetooth:before {
+  content: ""; }
+
+.smartic-icon-btc:before {
+  content: ""; }
+
+.smartic-icon-centos:before {
+  content: ""; }
+
+.smartic-icon-chrome:before {
+  content: ""; }
+
+.smartic-icon-codepen:before {
+  content: ""; }
+
+.smartic-icon-cpanel:before {
+  content: ""; }
+
+.smartic-icon-discord:before {
+  content: ""; }
+
+.smartic-icon-dochub:before {
+  content: ""; }
+
+.smartic-icon-docker:before {
+  content: ""; }
+
+.smartic-icon-dribbble:before {
+  content: ""; }
+
+.smartic-icon-dropbox:before {
+  content: ""; }
+
+.smartic-icon-drupal:before {
+  content: ""; }
+
+.smartic-icon-ebay:before {
+  content: ""; }
+
+.smartic-icon-facebook:before {
+  content: ""; }
+
+.smartic-icon-figma:before {
+  content: ""; }
+
+.smartic-icon-firefox:before {
+  content: ""; }
+
+.smartic-icon-google-plus:before {
+  content: ""; }
+
+.smartic-icon-google:before {
+  content: ""; }
+
+.smartic-icon-grunt:before {
+  content: ""; }
+
+.smartic-icon-gulp:before {
+  content: ""; }
+
+.smartic-icon-html5:before {
+  content: ""; }
+
+.smartic-icon-jenkins:before {
+  content: ""; }
+
+.smartic-icon-joomla:before {
+  content: ""; }
+
+.smartic-icon-link-brand:before {
+  content: ""; }
+
+.smartic-icon-linkedin:before {
+  content: ""; }
+
+.smartic-icon-mailchimp:before {
+  content: ""; }
+
+.smartic-icon-opencart:before {
+  content: ""; }
+
+.smartic-icon-paypal:before {
+  content: ""; }
+
+.smartic-icon-pinterest-p:before {
+  content: ""; }
+
+.smartic-icon-reddit:before {
+  content: ""; }
+
+.smartic-icon-skype:before {
+  content: ""; }
+
+.smartic-icon-slack:before {
+  content: ""; }
+
+.smartic-icon-snapchat:before {
+  content: ""; }
+
+.smartic-icon-spotify:before {
+  content: ""; }
+
+.smartic-icon-trello:before {
+  content: ""; }
+
+.smartic-icon-twitter:before {
+  content: ""; }
+
+.smartic-icon-vimeo:before {
+  content: ""; }
+
+.smartic-icon-whatsapp:before {
+  content: ""; }
+
+.smartic-icon-wordpress:before {
+  content: ""; }
+
+.smartic-icon-yoast:before {
+  content: ""; }
+
+.smartic-icon-youtube:before {
+  content: ""; }
+
+.smartic-icon-accurate-2:before {
+  content: ""; }
+
+.smartic-icon-activity:before {
+  content: ""; }
+
+.smartic-icon-app-2:before {
+  content: ""; }
+
+.smartic-icon-audio:before {
+  content: ""; }
+
+.smartic-icon-battery-2:before {
+  content: ""; }
+
+.smartic-icon-battery-3:before {
+  content: ""; }
+
+.smartic-icon-battery:before {
+  content: ""; }
+
+.smartic-icon-bedding:before {
+  content: ""; }
+
+.smartic-icon-biodegradable:before {
+  content: ""; }
+
+.smartic-icon-blade:before {
+  content: ""; }
+
+.smartic-icon-blades:before {
+  content: ""; }
+
+.smartic-icon-bluetooth-2:before {
+  content: ""; }
+
+.smartic-icon-body:before {
+  content: ""; }
+
+.smartic-icon-bow:before {
+  content: ""; }
+
+.smartic-icon-braking:before {
+  content: ""; }
+
+.smartic-icon-broken-link:before {
+  content: ""; }
+
+.smartic-icon-camera-2:before {
+  content: ""; }
+
+.smartic-icon-capacity-1:before {
+  content: ""; }
+
+.smartic-icon-capacity:before {
+  content: ""; }
+
+.smartic-icon-cardio:before {
+  content: ""; }
+
+.smartic-icon-care:before {
+  content: ""; }
+
+.smartic-icon-charge:before {
+  content: ""; }
+
+.smartic-icon-chip:before {
+  content: ""; }
+
+.smartic-icon-cookie:before {
+  content: ""; }
+
+.smartic-icon-cruelty-free:before {
+  content: ""; }
+
+.smartic-icon-data:before {
+  content: ""; }
+
+.smartic-icon-decay-tooth:before {
+  content: ""; }
+
+.smartic-icon-deck:before {
+  content: ""; }
+
+.smartic-icon-dental-care:before {
+  content: ""; }
+
+.smartic-icon-dental-floss:before {
+  content: ""; }
+
+.smartic-icon-dental-floss1:before {
+  content: ""; }
+
+.smartic-icon-distortion:before {
+  content: ""; }
+
+.smartic-icon-drone-1:before {
+  content: ""; }
+
+.smartic-icon-eco-friendly:before {
+  content: ""; }
+
+.smartic-icon-edge:before {
+  content: ""; }
+
+.smartic-icon-enjoy:before {
+  content: ""; }
+
+.smartic-icon-export:before {
+  content: ""; }
+
+.smartic-icon-fast:before {
+  content: ""; }
+
+.smartic-icon-faster:before {
+  content: ""; }
+
+.smartic-icon-feedback:before {
+  content: ""; }
+
+.smartic-icon-fields:before {
+  content: ""; }
+
+.smartic-icon-filter-1:before {
+  content: ""; }
+
+.smartic-icon-fixed:before {
+  content: ""; }
+
+.smartic-icon-flexible:before {
+  content: ""; }
+
+.smartic-icon-floss:before {
+  content: ""; }
+
+.smartic-icon-flower-1:before {
+  content: ""; }
+
+.smartic-icon-flying-skill:before {
+  content: ""; }
+
+.smartic-icon-frame:before {
+  content: ""; }
+
+.smartic-icon-free-1:before {
+  content: ""; }
+
+.smartic-icon-free-delivery-1:before {
+  content: ""; }
+
+.smartic-icon-fresher-breath:before {
+  content: ""; }
+
+.smartic-icon-fried-chicken:before {
+  content: ""; }
+
+.smartic-icon-gallery:before {
+  content: ""; }
+
+.smartic-icon-gift1:before {
+  content: ""; }
+
+.smartic-icon-global:before {
+  content: ""; }
+
+.smartic-icon-gluten:before {
+  content: ""; }
+
+.smartic-icon-gmo:before {
+  content: ""; }
+
+.smartic-icon-green-house-1:before {
+  content: ""; }
+
+.smartic-icon-grinding:before {
+  content: ""; }
+
+.smartic-icon-group:before {
+  content: ""; }
+
+.smartic-icon-guarranted:before {
+  content: ""; }
+
+.smartic-icon-hamburger:before {
+  content: ""; }
+
+.smartic-icon-hand:before {
+  content: ""; }
+
+.smartic-icon-headphone-1:before {
+  content: ""; }
+
+.smartic-icon-heart-rate:before {
+  content: ""; }
+
+.smartic-icon-hot-1:before {
+  content: ""; }
+
+.smartic-icon-improve:before {
+  content: ""; }
+
+.smartic-icon-insert:before {
+  content: ""; }
+
+.smartic-icon-insomnia:before {
+  content: ""; }
+
+.smartic-icon-ion:before {
+  content: ""; }
+
+.smartic-icon-laurel-wreath:before {
+  content: ""; }
+
+.smartic-icon-leaf:before {
+  content: ""; }
+
+.smartic-icon-length1:before {
+  content: ""; }
+
+.smartic-icon-lens:before {
+  content: ""; }
+
+.smartic-icon-light:before {
+  content: ""; }
+
+.smartic-icon-lighting:before {
+  content: ""; }
+
+.smartic-icon-magnetic:before {
+  content: ""; }
+
+.smartic-icon-map:before {
+  content: ""; }
+
+.smartic-icon-minus-solid:before {
+  content: ""; }
+
+.smartic-icon-money-recive:before {
+  content: ""; }
+
+.smartic-icon-music-2:before {
+  content: ""; }
+
+.smartic-icon-music:before {
+  content: ""; }
+
+.smartic-icon-natural_1:before {
+  content: ""; }
+
+.smartic-icon-natural_2:before {
+  content: ""; }
+
+.smartic-icon-nature-1:before {
+  content: ""; }
+
+.smartic-icon-newspaper1:before {
+  content: ""; }
+
+.smartic-icon-noise:before {
+  content: ""; }
+
+.smartic-icon-novelty-1:before {
+  content: ""; }
+
+.smartic-icon-organic:before {
+  content: ""; }
+
+.smartic-icon-palm:before {
+  content: ""; }
+
+.smartic-icon-payload:before {
+  content: ""; }
+
+.smartic-icon-phone-4:before {
+  content: ""; }
+
+.smartic-icon-phone-5:before {
+  content: ""; }
+
+.smartic-icon-phone-6:before {
+  content: ""; }
+
+.smartic-icon-photo:before {
+  content: ""; }
+
+.smartic-icon-plant:before {
+  content: ""; }
+
+.smartic-icon-plastic:before {
+  content: ""; }
+
+.smartic-icon-play-2:before {
+  content: ""; }
+
+.smartic-icon-plus-1:before {
+  content: ""; }
+
+.smartic-icon-plus-solid:before {
+  content: ""; }
+
+.smartic-icon-pose:before {
+  content: ""; }
+
+.smartic-icon-power-1:before {
+  content: ""; }
+
+.smartic-icon-press:before {
+  content: ""; }
+
+.smartic-icon-profit-1:before {
+  content: ""; }
+
+.smartic-icon-quality-2:before {
+  content: ""; }
+
+.smartic-icon-quiet:before {
+  content: ""; }
+
+.smartic-icon-quote-3:before {
+  content: ""; }
+
+.smartic-icon-quote-4:before {
+  content: ""; }
+
+.smartic-icon-rabbit:before {
+  content: ""; }
+
+.smartic-icon-range:before {
+  content: ""; }
+
+.smartic-icon-recharge-1:before {
+  content: ""; }
+
+.smartic-icon-recharge:before {
+  content: ""; }
+
+.smartic-icon-remider:before {
+  content: ""; }
+
+.smartic-icon-return-box-1:before {
+  content: ""; }
+
+.smartic-icon-ride:before {
+  content: ""; }
+
+.smartic-icon-run:before {
+  content: ""; }
+
+.smartic-icon-safe-2:before {
+  content: ""; }
+
+.smartic-icon-safe:before {
+  content: ""; }
+
+.smartic-icon-salads:before {
+  content: ""; }
+
+.smartic-icon-salt:before {
+  content: ""; }
+
+.smartic-icon-saver:before {
+  content: ""; }
+
+.smartic-icon-shipping-2:before {
+  content: ""; }
+
+.smartic-icon-shoes:before {
+  content: ""; }
+
+.smartic-icon-skin-cell-1:before {
+  content: ""; }
+
+.smartic-icon-sleep-1:before {
+  content: ""; }
+
+.smartic-icon-sleep:before {
+  content: ""; }
+
+.smartic-icon-sleeping-1:before {
+  content: ""; }
+
+.smartic-icon-smartness:before {
+  content: ""; }
+
+.smartic-icon-sos-2:before {
+  content: ""; }
+
+.smartic-icon-speed-2:before {
+  content: ""; }
+
+.smartic-icon-spices-1:before {
+  content: ""; }
+
+.smartic-icon-spices:before {
+  content: ""; }
+
+.smartic-icon-sustainable-1:before {
+  content: ""; }
+
+.smartic-icon-terrain:before {
+  content: ""; }
+
+.smartic-icon-tooth:before {
+  content: ""; }
+
+.smartic-icon-touch-2:before {
+  content: ""; }
+
+.smartic-icon-turbo:before {
+  content: ""; }
+
+.smartic-icon-Union:before {
+  content: ""; }
+
+.smartic-icon-usb:before {
+  content: ""; }
+
+.smartic-icon-vegan:before {
+  content: ""; }
+
+.smartic-icon-verify:before {
+  content: ""; }
+
+.smartic-icon-vibrating:before {
+  content: ""; }
+
+.smartic-icon-video-1:before {
+  content: ""; }
+
+.smartic-icon-video-2:before {
+  content: ""; }
+
+.smartic-icon-video-horizontal:before {
+  content: ""; }
+
+.smartic-icon-view:before {
+  content: ""; }
+
+.smartic-icon-vitamins-3:before {
+  content: ""; }
+
+.smartic-icon-voice-2:before {
+  content: ""; }
+
+.smartic-icon-warranted:before {
+  content: ""; }
+
+.smartic-icon-warranty-1:before {
+  content: ""; }
+
+.smartic-icon-washing-hands-1:before {
+  content: ""; }
+
+.smartic-icon-water-3:before {
+  content: ""; }
+
+.smartic-icon-weight_2:before {
+  content: ""; }
+
+.smartic-icon-wifi-3:before {
+  content: ""; }
+
+.smartic-icon-wisdom-tooth:before {
+  content: ""; }
+
+.smartic-icon-youtube-new:before {
+  content: ""; }
+
+.smartic-icon-zip-1:before {
+  content: ""; }
+
+.smartic-icon-zip:before {
+  content: ""; }
+
+.smartic-icon-360:before {
+  content: ""; }
+
+.smartic-icon-angle-down:before {
+  content: ""; }
+
+.smartic-icon-angle-left:before {
+  content: ""; }
+
+.smartic-icon-angle-right:before {
+  content: ""; }
+
+.smartic-icon-angle-up:before {
+  content: ""; }
+
+.smartic-icon-arrow-circle-down:before {
+  content: ""; }
+
+.smartic-icon-arrow-circle-left:before {
+  content: ""; }
+
+.smartic-icon-arrow-circle-right:before {
+  content: ""; }
+
+.smartic-icon-arrow-circle-up:before {
+  content: ""; }
+
+.smartic-icon-bars:before {
+  content: ""; }
+
+.smartic-icon-calendar:before {
+  content: ""; }
+
+.smartic-icon-caret-down:before {
+  content: ""; }
+
+.smartic-icon-caret-left:before {
+  content: ""; }
+
+.smartic-icon-caret-right:before {
+  content: ""; }
+
+.smartic-icon-caret-up:before {
+  content: ""; }
+
+.smartic-icon-cart-empty:before {
+  content: ""; }
+
+.smartic-icon-check-square:before {
+  content: ""; }
+
+.smartic-icon-chevron-circle-left:before {
+  content: ""; }
+
+.smartic-icon-chevron-circle-right:before {
+  content: ""; }
+
+.smartic-icon-chevron-down:before {
+  content: ""; }
+
+.smartic-icon-chevron-left:before {
+  content: ""; }
+
+.smartic-icon-chevron-right:before {
+  content: ""; }
+
+.smartic-icon-chevron-up:before {
+  content: ""; }
+
+.smartic-icon-circle:before {
+  content: ""; }
+
+.smartic-icon-clock:before {
+  content: ""; }
+
+.smartic-icon-cloud-download-alt:before {
+  content: ""; }
+
+.smartic-icon-comment:before {
+  content: ""; }
+
+.smartic-icon-comments:before {
+  content: ""; }
+
+.smartic-icon-contact:before {
+  content: ""; }
+
+.smartic-icon-credit-card:before {
+  content: ""; }
+
+.smartic-icon-dot-circle:before {
+  content: ""; }
+
+.smartic-icon-edit:before {
+  content: ""; }
+
+.smartic-icon-envelope:before {
+  content: ""; }
+
+.smartic-icon-expand-alt:before {
+  content: ""; }
+
+.smartic-icon-external-link-alt:before {
+  content: ""; }
+
+.smartic-icon-eye:before {
+  content: ""; }
+
+.smartic-icon-file-alt:before {
+  content: ""; }
+
+.smartic-icon-file-archive:before {
+  content: ""; }
+
+.smartic-icon-filter:before {
+  content: ""; }
+
+.smartic-icon-folder-open:before {
+  content: ""; }
+
+.smartic-icon-folder:before {
+  content: ""; }
+
+.smartic-icon-free_ship:before {
+  content: ""; }
+
+.smartic-icon-frown:before {
+  content: ""; }
+
+.smartic-icon-gift:before {
+  content: ""; }
+
+.smartic-icon-grid:before {
+  content: ""; }
+
+.smartic-icon-grip-horizontal:before {
+  content: ""; }
+
+.smartic-icon-heart-fill:before {
+  content: ""; }
+
+.smartic-icon-heart:before {
+  content: ""; }
+
+.smartic-icon-history:before {
+  content: ""; }
+
+.smartic-icon-home:before {
+  content: ""; }
+
+.smartic-icon-info-circle:before {
+  content: ""; }
+
+.smartic-icon-instagram:before {
+  content: ""; }
+
+.smartic-icon-level-up-alt:before {
+  content: ""; }
+
+.smartic-icon-list:before {
+  content: ""; }
+
+.smartic-icon-long-arrow-alt-down:before {
+  content: ""; }
+
+.smartic-icon-long-arrow-alt-left:before {
+  content: ""; }
+
+.smartic-icon-long-arrow-alt-right:before {
+  content: ""; }
+
+.smartic-icon-long-arrow-alt-up:before {
+  content: ""; }
+
+.smartic-icon-map-marker-check:before {
+  content: ""; }
+
+.smartic-icon-meh:before {
+  content: ""; }
+
+.smartic-icon-mesh:before {
+  content: ""; }
+
+.smartic-icon-minus-circle:before {
+  content: ""; }
+
+.smartic-icon-minus:before {
+  content: ""; }
+
+.smartic-icon-mobile-android-alt:before {
+  content: ""; }
+
+.smartic-icon-money-bill:before {
+  content: ""; }
+
+.smartic-icon-pencil-alt:before {
+  content: ""; }
+
+.smartic-icon-play-circle:before {
+  content: ""; }
+
+.smartic-icon-plus-circle:before {
+  content: ""; }
+
+.smartic-icon-plus:before {
+  content: ""; }
+
+.smartic-icon-quote:before {
+  content: ""; }
+
+.smartic-icon-random:before {
+  content: ""; }
+
+.smartic-icon-reply-all:before {
+  content: ""; }
+
+.smartic-icon-reply:before {
+  content: ""; }
+
+.smartic-icon-router:before {
+  content: ""; }
+
+.smartic-icon-search-plus:before {
+  content: ""; }
+
+.smartic-icon-shield-check:before {
+  content: ""; }
+
+.smartic-icon-shopping-basket:before {
+  content: ""; }
+
+.smartic-icon-shopping-cart:before {
+  content: ""; }
+
+.smartic-icon-sign-out-alt:before {
+  content: ""; }
+
+.smartic-icon-smile:before {
+  content: ""; }
+
+.smartic-icon-spinner:before {
+  content: ""; }
+
+.smartic-icon-square:before {
+  content: ""; }
+
+.smartic-icon-star:before {
+  content: ""; }
+
+.smartic-icon-store:before {
+  content: ""; }
+
+.smartic-icon-sync:before {
+  content: ""; }
+
+.smartic-icon-tachometer-alt:before {
+  content: ""; }
+
+.smartic-icon-th-large:before {
+  content: ""; }
+
+.smartic-icon-th-list:before {
+  content: ""; }
+
+.smartic-icon-thumbtack:before {
+  content: ""; }
+
+.smartic-icon-times-circle:before {
+  content: ""; }
+
+.smartic-icon-times:before {
+  content: ""; }
+
+.smartic-icon-trophy-alt:before {
+  content: ""; }
+
+.smartic-icon-truck:before {
+  content: ""; }
+
+.smartic-icon-user-headset:before {
+  content: ""; }
+
+.smartic-icon-user-shield:before {
+  content: ""; }
+
+.smartic-icon-user:before {
+  content: ""; }
+
+.smartic-icon-video:before {
+  content: ""; }
+
+.smartic-icon-account:before {
+  content: ""; }
+
+.smartic-icon-accurate:before {
+  content: ""; }
+
+.smartic-icon-acivity:before {
+  content: ""; }
+
+.smartic-icon-address:before {
+  content: ""; }
+
+.smartic-icon-age:before {
+  content: ""; }
+
+.smartic-icon-aids:before {
+  content: ""; }
+
+.smartic-icon-alarm:before {
+  content: ""; }
+
+.smartic-icon-anti:before {
+  content: ""; }
+
+.smartic-icon-app:before {
+  content: ""; }
+
+.smartic-icon-arrow-down:before {
+  content: ""; }
+
+.smartic-icon-arrow-left:before {
+  content: ""; }
+
+.smartic-icon-arrow-right:before {
+  content: ""; }
+
+.smartic-icon-arrow-up:before {
+  content: ""; }
+
+.smartic-icon-avoid:before {
+  content: ""; }
+
+.smartic-icon-battery-4:before {
+  content: ""; }
+
+.smartic-icon-bluetooth-1:before {
+  content: ""; }
+
+.smartic-icon-bmi:before {
+  content: ""; }
+
+.smartic-icon-bodyfat:before {
+  content: ""; }
+
+.smartic-icon-bone:before {
+  content: ""; }
+
+.smartic-icon-boot:before {
+  content: ""; }
+
+.smartic-icon-bottle:before {
+  content: ""; }
+
+.smartic-icon-box-check:before {
+  content: ""; }
+
+.smartic-icon-box:before {
+  content: ""; }
+
+.smartic-icon-burn:before {
+  content: ""; }
+
+.smartic-icon-button:before {
+  content: ""; }
+
+.smartic-icon-call:before {
+  content: ""; }
+
+.smartic-icon-calorie:before {
+  content: ""; }
+
+.smartic-icon-camera-1:before {
+  content: ""; }
+
+.smartic-icon-camera:before {
+  content: ""; }
+
+.smartic-icon-caret-vertiacl-menu:before {
+  content: ""; }
+
+.smartic-icon-cart:before {
+  content: ""; }
+
+.smartic-icon-charger:before {
+  content: ""; }
+
+.smartic-icon-charging:before {
+  content: ""; }
+
+.smartic-icon-child:before {
+  content: ""; }
+
+.smartic-icon-cleasing:before {
+  content: ""; }
+
+.smartic-icon-clock-time:before {
+  content: ""; }
+
+.smartic-icon-coffee:before {
+  content: ""; }
+
+.smartic-icon-computer:before {
+  content: ""; }
+
+.smartic-icon-contact-2:before {
+  content: ""; }
+
+.smartic-icon-control:before {
+  content: ""; }
+
+.smartic-icon-delivery-2:before {
+  content: ""; }
+
+.smartic-icon-delivery-3:before {
+  content: ""; }
+
+.smartic-icon-delivery:before {
+  content: ""; }
+
+.smartic-icon-dental-care-1:before {
+  content: ""; }
+
+.smartic-icon-dental-checkup:before {
+  content: ""; }
+
+.smartic-icon-dental-protect:before {
+  content: ""; }
+
+.smartic-icon-destination:before {
+  content: ""; }
+
+.smartic-icon-digested:before {
+  content: ""; }
+
+.smartic-icon-discount:before {
+  content: ""; }
+
+.smartic-icon-dispatch:before {
+  content: ""; }
+
+.smartic-icon-drone:before {
+  content: ""; }
+
+.smartic-icon-eco:before {
+  content: ""; }
+
+.smartic-icon-email:before {
+  content: ""; }
+
+.smartic-icon-envelope-open-text:before {
+  content: ""; }
+
+.smartic-icon-eyecare:before {
+  content: ""; }
+
+.smartic-icon-faceskin:before {
+  content: ""; }
+
+.smartic-icon-farmed:before {
+  content: ""; }
+
+.smartic-icon-formula:before {
+  content: ""; }
+
+.smartic-icon-free:before {
+  content: ""; }
+
+.smartic-icon-gaming:before {
+  content: ""; }
+
+.smartic-icon-gem:before {
+  content: ""; }
+
+.smartic-icon-gps:before {
+  content: ""; }
+
+.smartic-icon-headphone:before {
+  content: ""; }
+
+.smartic-icon-headphones-alt:before {
+  content: ""; }
+
+.smartic-icon-headset:before {
+  content: ""; }
+
+.smartic-icon-heart-2:before {
+  content: ""; }
+
+.smartic-icon-help:before {
+  content: ""; }
+
+.smartic-icon-hydrating:before {
+  content: ""; }
+
+.smartic-icon-id-card:before {
+  content: ""; }
+
+.smartic-icon-led:before {
+  content: ""; }
+
+.smartic-icon-lightning:before {
+  content: ""; }
+
+.smartic-icon-location:before {
+  content: ""; }
+
+.smartic-icon-logo:before {
+  content: ""; }
+
+.smartic-icon-long-arrow-down:before {
+  content: ""; }
+
+.smartic-icon-long-arrow-left:before {
+  content: ""; }
+
+.smartic-icon-long-arrow-right:before {
+  content: ""; }
+
+.smartic-icon-long-arrow-up:before {
+  content: ""; }
+
+.smartic-icon-mail:before {
+  content: ""; }
+
+.smartic-icon-makeup:before {
+  content: ""; }
+
+.smartic-icon-map-marker-alt:before {
+  content: ""; }
+
+.smartic-icon-map-marker:before {
+  content: ""; }
+
+.smartic-icon-max-speed:before {
+  content: ""; }
+
+.smartic-icon-menu-header:before {
+  content: ""; }
+
+.smartic-icon-menu:before {
+  content: ""; }
+
+.smartic-icon-message:before {
+  content: ""; }
+
+.smartic-icon-money:before {
+  content: ""; }
+
+.smartic-icon-moneyback:before {
+  content: ""; }
+
+.smartic-icon-mountains:before {
+  content: ""; }
+
+.smartic-icon-muscle:before {
+  content: ""; }
+
+.smartic-icon-natural:before {
+  content: ""; }
+
+.smartic-icon-networking:before {
+  content: ""; }
+
+.smartic-icon-off:before {
+  content: ""; }
+
+.smartic-icon-packed:before {
+  content: ""; }
+
+.smartic-icon-paper-plane:before {
+  content: ""; }
+
+.smartic-icon-paw:before {
+  content: ""; }
+
+.smartic-icon-payment:before {
+  content: ""; }
+
+.smartic-icon-pencil-ruler:before {
+  content: ""; }
+
+.smartic-icon-person:before {
+  content: ""; }
+
+.smartic-icon-phone-1:before {
+  content: ""; }
+
+.smartic-icon-phone-2:before {
+  content: ""; }
+
+.smartic-icon-phone-3:before {
+  content: ""; }
+
+.smartic-icon-phone-volume:before {
+  content: ""; }
+
+.smartic-icon-phone:before {
+  content: ""; }
+
+.smartic-icon-pickup:before {
+  content: ""; }
+
+.smartic-icon-play-fill:before {
+  content: ""; }
+
+.smartic-icon-play:before {
+  content: ""; }
+
+.smartic-icon-play_1:before {
+  content: ""; }
+
+.smartic-icon-power:before {
+  content: ""; }
+
+.smartic-icon-powerbank:before {
+  content: ""; }
+
+.smartic-icon-preserves:before {
+  content: ""; }
+
+.smartic-icon-professionals-1:before {
+  content: ""; }
+
+.smartic-icon-proffesionals:before {
+  content: ""; }
+
+.smartic-icon-protect:before {
+  content: ""; }
+
+.smartic-icon-protected:before {
+  content: ""; }
+
+.smartic-icon-protein:before {
+  content: ""; }
+
+.smartic-icon-purification:before {
+  content: ""; }
+
+.smartic-icon-quality:before {
+  content: ""; }
+
+.smartic-icon-quote-1:before {
+  content: ""; }
+
+.smartic-icon-quote-2:before {
+  content: ""; }
+
+.smartic-icon-quote-5:before {
+  content: ""; }
+
+.smartic-icon-recipes:before {
+  content: ""; }
+
+.smartic-icon-reliable:before {
+  content: ""; }
+
+.smartic-icon-returns:before {
+  content: ""; }
+
+.smartic-icon-roasted:before {
+  content: ""; }
+
+.smartic-icon-rocket:before {
+  content: ""; }
+
+.smartic-icon-search-header:before {
+  content: ""; }
+
+.smartic-icon-search:before {
+  content: ""; }
+
+.smartic-icon-secure-2:before {
+  content: ""; }
+
+.smartic-icon-secure:before {
+  content: ""; }
+
+.smartic-icon-security:before {
+  content: ""; }
+
+.smartic-icon-setup:before {
+  content: ""; }
+
+.smartic-icon-shield-alt:before {
+  content: ""; }
+
+.smartic-icon-shipping:before {
+  content: ""; }
+
+.smartic-icon-shoe-prints:before {
+  content: ""; }
+
+.smartic-icon-skin-2:before {
+  content: ""; }
+
+.smartic-icon-skin:before {
+  content: ""; }
+
+.smartic-icon-smartphone:before {
+  content: ""; }
+
+.smartic-icon-sos:before {
+  content: ""; }
+
+.smartic-icon-sound:before {
+  content: ""; }
+
+.smartic-icon-speaker:before {
+  content: ""; }
+
+.smartic-icon-spray-can:before {
+  content: ""; }
+
+.smartic-icon-strenght:before {
+  content: ""; }
+
+.smartic-icon-supplement:before {
+  content: ""; }
+
+.smartic-icon-support-2:before {
+  content: ""; }
+
+.smartic-icon-support:before {
+  content: ""; }
+
+.smartic-icon-tag:before {
+  content: ""; }
+
+.smartic-icon-tags:before {
+  content: ""; }
+
+.smartic-icon-taste:before {
+  content: ""; }
+
+.smartic-icon-taste_2:before {
+  content: ""; }
+
+.smartic-icon-tea-cup:before {
+  content: ""; }
+
+.smartic-icon-tea:before {
+  content: ""; }
+
+.smartic-icon-telephone:before {
+  content: ""; }
+
+.smartic-icon-tennis-ball:before {
+  content: ""; }
+
+.smartic-icon-touch:before {
+  content: ""; }
+
+.smartic-icon-trusted:before {
+  content: ""; }
+
+.smartic-icon-turnoff:before {
+  content: ""; }
+
+.smartic-icon-tv:before {
+  content: ""; }
+
+.smartic-icon-ultra:before {
+  content: ""; }
+
+.smartic-icon-undo:before {
+  content: ""; }
+
+.smartic-icon-users:before {
+  content: ""; }
+
+.smartic-icon-vitamins-2:before {
+  content: ""; }
+
+.smartic-icon-vitamins:before {
+  content: ""; }
+
+.smartic-icon-vitamins_3:before {
+  content: ""; }
+
+.smartic-icon-voice:before {
+  content: ""; }
+
+.smartic-icon-voice_2:before {
+  content: ""; }
+
+.smartic-icon-warranty:before {
+  content: ""; }
+
+.smartic-icon-watch:before {
+  content: ""; }
+
+.smartic-icon-water-2:before {
+  content: ""; }
+
+.smartic-icon-water:before {
+  content: ""; }
+
+.smartic-icon-water_3:before {
+  content: ""; }
+
+.smartic-icon-weight:before {
+  content: ""; }
+
+.smartic-icon-wifi:before {
+  content: ""; }
+
+.smartic-icon-wishlist:before {
+  content: ""; }
+
+.smartic-icon-workout:before {
+  content: ""; }
+
